@@ -6,6 +6,7 @@
     "dev": "nx serve anker",
     "app": "nx serve app",
     "start": "nx serve",
+    "start1": "nx serve",
     "build": "nx build",
     "test": "nx test shared --no-cache --debug --t shared.task",
     "test:shopify.client.queue": "nx test shopify --no-cache --debug --t shopify.queue",
