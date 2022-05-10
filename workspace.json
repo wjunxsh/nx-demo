@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "anker": "apps/anker",
+    "app": "apps/app",
+    "shared": "libs/shared",
+    "shopify": "libs/shopify"
+  }
+}
