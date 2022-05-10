@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nx serve anker",
-    "app": "NODE_OPTIONS='--inspect' nx serve app",
+    "app": "nx serve app",
     "start": "nx serve",
     "build": "nx build",
     "test": "nx test shared --no-cache --debug --t shared.task",
