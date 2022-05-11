@@ -65,6 +65,7 @@
     "@shopify/app-bridge-utils": "^2.0.25",
     "@shopify/polaris": "^9.4.0",
     "@shopify/shopify-api": "^3.0.1",
+    "antd": "^4.20.3",
     "bullmq": "^1.80.6",
     "cookie-parser": "^1.4.6",
     "core-js": "^3.6.5",
